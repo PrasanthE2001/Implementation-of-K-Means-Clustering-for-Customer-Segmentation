@@ -9,16 +9,19 @@ To write a program to implement the K Means Clustering for Customer Segmentation
 
 ## Algorithm
 1. Import the required libraries,read the data set.find the number of null data.
+
 2. Find the number of null data.
+
 3. Import sklearn library.
+
 4. Find y predict and plot the graph.
 
 ## Program:
 ```
 /*
 Program to implement the K Means Clustering for Customer Segmentation.
-Developed by: Anusha R
-RegisterNumber:  212221230006
+Developed by: E Prasanth
+RegisterNumber:  212221233002
 */
 
 import numpy as np
